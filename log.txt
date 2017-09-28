@@ -1,0 +1,47 @@
+commit cfa9e10eb370f7a3efa8fc39299f970a1bfc0847
+Author: Sebastian Cabrol <cabrol@mymail.mines.edu>
+Date:   Thu Sep 28 12:07:28 2017 -0600
+
+    added white oval pupils to the eyes
+
+commit 940ed1a472dc9491cd77fb19189adf777bd728fd
+Author: Eduardo Arellano Mendiola <earellanomendiola@mines.edu>
+Date:   Thu Sep 28 12:01:53 2017 -0600
+
+    Made eyes taller and changed their color to orange
+
+commit b24d25735bfe7ff5559e0b8adc6d32db980a6c83
+Author: Sebastian Cabrol <cabrol@mymail.mines.edu>
+Date:   Thu Sep 28 11:59:30 2017 -0600
+
+    Changed cat meow to Meeeoooowwwww
+
+commit 3404f287f01e19d7b4c412c6748843437e4db2f7
+Author: Eduardo Arellano Mendiola <earellanomendiola@mines.edu>
+Date:   Thu Sep 28 11:56:52 2017 -0600
+
+    Made mouth twice as wide
+
+commit 3f7d0a8531fa320376de81a572b052a52c05ac08
+Author: Sebastian Cabrol <cabrol@mymail.mines.edu>
+Date:   Thu Sep 28 11:53:51 2017 -0600
+
+    made eyes circles instead of ovals
+
+commit 9a9b074d8361cbbe1d18466655b431f5e8486cf4
+Author: Eduardo Arellano Mendiola <earellanomendiola@mines.edu>
+Date:   Thu Sep 28 11:50:48 2017 -0600
+
+    Changed eyes to blue
+
+commit dfa07f5a6a2a62e334fec939fcdfc5d241c208b6
+Author: Sebastian Cabrol <cabrol@mymail.mines.edu>
+Date:   Thu Sep 28 11:31:23 2017 -0600
+
+    DrawPlay update commit
+
+commit 30d41458d7711daf57ca1c82bdcb6169ee200f2e
+Author: SebastianCabrol <31664155+SebastianCabrol@users.noreply.github.com>
+Date:   Thu Sep 28 11:18:05 2017 -0600
+
+    Initial commit
